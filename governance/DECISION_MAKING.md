@@ -26,4 +26,4 @@
 Document the unresolved concerns and revisit later. Do not improvise a majority vote or allow a founder to declare victory. Before any binding decisions, members must agree on quorum, thresholds, abstentions, conflicts of interest, and appeal mechanisms.
 
 ## Example
-“Try a 90-minute biweekly catchup for six weeks, with optional attendance and sharing; review anonymously after three sessions.”
+“Try a 90-minute monthly meeting for three months, with optional attendance and sharing; review anonymously after three sessions.”

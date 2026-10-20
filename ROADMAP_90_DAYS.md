@@ -5,7 +5,7 @@
 ## Month 1 — Trust first
 - Hold an orientation and jointly revise the charter.
 - Agree on confidentiality, right to pass, and respectful disagreement.
-- Try two biweekly catchups.
+- Try the first monthly meeting.
 - Gather private feedback on whether everyone feels heard.
 
 ## Month 2 — Lightweight governance
@@ -15,7 +15,7 @@
 - Organize one optional bonding activity.
 
 ## Month 3 — Review and adapt
-- Continue catchups and rotate responsibilities.
+- Continue monthly meetings and rotate responsibilities.
 - Collect an anonymous pulse survey.
 - Review unresolved tensions and meeting burden.
 - Revise or discontinue processes that do not help.

@@ -23,7 +23,7 @@ Anyone can submit. The coordinator organizes; they do not gatekeep ideas. Member
 ## Example cards
 | ID | Proposal | Stage | Next step |
 | --- | --- | --- | --- |
-| DAO-001 | Biweekly catchup trial | Discussion | Agree on time and review date |
+| DAO-001 | Monthly meeting trial | Discussion | Agree on time and review date |
 | DAO-002 | Rotating facilitator | Ideas | Collect feedback |
 | DAO-003 | Monthly bonding activity | Ideas | Find volunteer host |
 

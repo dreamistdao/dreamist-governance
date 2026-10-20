@@ -6,7 +6,7 @@
 Friendship should exist outside meetings and proposals. Shared enjoyment, informal conversation, and mutual care build trust without turning every interaction into a productivity exercise.
 
 ## Suggested rhythm
-- **Biweekly:** optional catchup and learning exchange.
+- **Monthly:** optional meeting, sharing, and learning exchange.
 - **Monthly:** optional casual activity (meal, board games, walk, sports, creative activity).
 - **Quarterly:** group reflection or longer get-together if members want it.
 

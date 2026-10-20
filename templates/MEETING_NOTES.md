@@ -16,8 +16,8 @@
 | --- | --- | --- |
 | | | |
 
-## Next meeting
-[Date / tentative host]
+## Next monthly meeting
+[Date / tentative host or facilitator]
 
 ## Process feedback (non-identifying)
 [What worked, what to improve]

@@ -8,7 +8,7 @@ A leader serves the process; they do not control members' views. Formal roles ro
 ## Suggested roles
 | Role | Main responsibility | Suggested rotation |
 | --- | --- | --- |
-| Facilitator | Keep discussion balanced and invite objections | Each catchup |
+| Facilitator | Keep discussion balanced and invite objections | Each monthly meeting |
 | Proposal coordinator | Maintain board, owners, and review dates | Every 2 months |
 | Community host | Arrange optional bonding | Every 2 months |
 | Trust steward | Receive concerns, help arrange fair conversations | Every 2 months |

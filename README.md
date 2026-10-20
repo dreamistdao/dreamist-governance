@@ -12,7 +12,7 @@ We want a small group of friends where everyone can speak honestly, disagree saf
 2. [Our community agreement](community/CODE_OF_CONDUCT.md)
 3. [How leadership works](governance/LEADERSHIP.md)
 4. [How we make decisions](governance/DECISION_MAKING.md)
-5. [Biweekly catchup format](meetings/BIWEEKLY_CATCHUP.md)
+5. [Monthly meeting format](meetings/MONTHLY_MEETING.md)
 6. [New member orientation](community/ONBOARDING.md)
 
 ## Other resources

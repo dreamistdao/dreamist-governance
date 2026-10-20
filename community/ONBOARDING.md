@@ -6,7 +6,7 @@
 1. **5 min — Why Dreamist DAO exists:** friends, trust, openness, growth.
 2. **5 min — What it is not:** no status contest, compulsory sharing, or permanent leader.
 3. **8 min — Community agreement:** listening, confidentiality, disagreement, boundaries.
-4. **5 min — How it works:** biweekly catchups, rotating roles, proposals.
+4. **5 min — How it works:** monthly meetings, the sharing flow, rotating roles, and proposals.
 5. **5 min — Practice:** each person can share a small preference or disagreement; passing is welcome.
 6. **2 min — Questions and next steps.**
 
