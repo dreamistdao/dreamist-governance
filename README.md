@@ -4,6 +4,8 @@
 
 **Public guide:** [dreamistdao.github.io/dreamist-governance](https://dreamistdao.github.io/dreamist-governance/)
 
+**Full meeting handbook:** [dreamistdao.github.io/dreamist-governance/meeting.html](https://dreamistdao.github.io/dreamist-governance/meeting.html)
+
 > Status: Draft for member review. No rule is binding until members agree to it.
 
 ## Why we exist
