@@ -2,6 +2,8 @@
 
 **A brotherhood built on trust, openness, personal growth, and shared responsibility.**
 
+**Public guide:** [dreamistdao.github.io/dreamist-governance](https://dreamistdao.github.io/dreamist-governance/)
+
 > Status: Draft for member review. No rule is binding until members agree to it.
 
 ## Why we exist
